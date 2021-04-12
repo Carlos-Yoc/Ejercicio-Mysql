@@ -1,0 +1,5 @@
+﻿  Mysql_c.cpp
+C:\Users\carli\Desktop\Mysql_c\Mysql_c\Mysql_c.cpp(36,9): error C3861: 'getline': no se encontró el identificador
+C:\Users\carli\Desktop\Mysql_c\Mysql_c\Mysql_c.cpp(41,9): error C3861: 'getline': no se encontró el identificador
+C:\Users\carli\Desktop\Mysql_c\Mysql_c\Mysql_c.cpp(54,9): error C2065: 'q_estado': identificador no declarado
+C:\Users\carli\Desktop\Mysql_c\Mysql_c\Mysql_c.cpp(55,14): error C2065: 'q_estado': identificador no declarado
